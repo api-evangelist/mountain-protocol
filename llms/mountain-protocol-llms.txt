@@ -1,0 +1,21 @@
+# Mountain Protocol
+
+## Mountain Protocol
+
+- [Getting Started](https://docs.mountainprotocol.com/getting-started.md): Mountain Protocol Documentation
+- [USDM Wind-Down Overview](https://docs.mountainprotocol.com/wind-down-documentation/usdm-wind-down-overview.md)
+- [Ongoing proof of reserves](https://docs.mountainprotocol.com/wind-down-documentation/ongoing-proof-of-reserves.md): As part of the Phase 3 of the wind down plan, Proof-of-Reserves of USDM backing can be found on-chain. This document describes how users can independently verify reserves at any point in time.
+- [Official media accounts](https://docs.mountainprotocol.com/wind-down-documentation/official-media-accounts.md)
+- [Terms and Conditions](https://docs.mountainprotocol.com/wind-down-legal/terms-and-conditions.md)
+- [USDM Token](https://docs.mountainprotocol.com/legacy-docs/usdm-token.md)
+- [Product Structuring](https://docs.mountainprotocol.com/legacy-docs/product-structuring.md)
+- [Mountain Protocol Platform](https://docs.mountainprotocol.com/legacy-docs/mountain-protocol-platform.md)
+- [USDM Reserves](https://docs.mountainprotocol.com/legacy-docs/usdm-reserves.md)
+- [USDM Reserves - Attestations](https://docs.mountainprotocol.com/legacy-docs/usdm-reserves-attestations.md)
+- [USDM Reserves - Investment mandate](https://docs.mountainprotocol.com/legacy-docs/usdm-reserves-investment-mandate.md)
+- [API Overview](https://docs.mountainprotocol.com/legacy-docs/api-overview.md)
+- [Security resources](https://docs.mountainprotocol.com/legacy-docs/security-resources.md)
+- [Risks](https://docs.mountainprotocol.com/legacy-docs/risks.md)
+- [Terms and Conditions](https://docs.mountainprotocol.com/legacy-legal-docs/terms-and-conditions.md)
+- [U.S. Restrictions](https://docs.mountainprotocol.com/legacy-legal-docs/u.s.-restrictions.md)
+- [Data Privacy Policy](https://docs.mountainprotocol.com/legacy-legal-docs/data-privacy-policy.md)

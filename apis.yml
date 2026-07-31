@@ -1,8 +1,27 @@
 aid: mountain-protocol
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mountain-protocol.png
 name: Mountain Protocol
-description: 'Mountain Protocol is a company surfaced as a portfolio company of multicoin-capital and
-  added to the API Evangelist network as a stub for enrichment. Sector: crypto-web3. This profile is a
-  lead awaiting the enrichment pipeline.'
+description: 'Mountain Protocol is the issuer of USDM, a regulated, institutional-grade
+  yield-bearing stablecoin backed by short-term US Treasury securities that pays daily
+  rewards to holders through an ERC20 rebasing token. The company operated a Primary-User
+  account platform with a private REST API for depositing and withdrawing USDM and
+  USDC, querying account balances, and checking USDC liquidity, alongside on-chain
+  proof-of-reserves and a smart-contract security program audited by OpenZeppelin
+  with an Immunefi bug bounty. As of 2025 the protocol entered an orderly wind-down:
+  the primary market closed on August 22, 2025, redemptions moved to secondary markets,
+  and Phase 3 provides on-chain proof-of-reserves so holders can independently verify
+  USDM backing. Backed by Multicoin Capital.'
 url: https://raw.githubusercontent.com/api-evangelist/mountain-protocol/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +29,20 @@ x-backed-by:
 - multicoin-capital
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-lifecycle: wind-down
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Crypto Web3
+- Stablecoin
+- DeFi
+- Digital Assets
+- Blockchain
+- Ethereum
+- Financial Services
+- Yield
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +52,30 @@ maintainers:
 common:
 - type: Website
   url: https://mountainprotocol.com
+- type: Documentation
+  url: https://docs.mountainprotocol.com/
+- type: GettingStarted
+  url: https://docs.mountainprotocol.com/getting-started
+- type: APIReference
+  url: https://docs.mountainprotocol.com/legacy-docs/api-overview
+- type: GitHubOrganization
+  url: https://github.com/mountainprotocol
+- type: Support
+  url: https://mountainprotocol.com/contact
+- type: TermsOfService
+  url: https://docs.mountainprotocol.com/legal/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://docs.mountainprotocol.com/legacy-legal-docs/data-privacy-policy
+- type: Security
+  url: https://docs.mountainprotocol.com/legacy-docs/security-resources
+- type: LLMsTxt
+  url: llms/mountain-protocol-llms.txt
+- type: DomainSecurity
+  url: security/mountain-protocol-domain-security.yml
+- type: VulnerabilityDisclosure
+  url: security/mountain-protocol-vulnerability-disclosure.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 4
+  pass: local-v1
