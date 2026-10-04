@@ -52,8 +52,11 @@ tags:
 - Digital Assets
 - Blockchain
 - Ethereum
-- Financial-Services
+- Financial Services
 - Yield
+- Stablecoin Issuance
+- Web3
+- Cryptocurrency
 tags_raw:
 - Company
 - Crypto Web3
@@ -64,6 +67,10 @@ tags_raw:
 - Ethereum
 - Financial Services
 - Yield
+- Financial-Services
+- Stablecoin Issuance
+- Web3
+- Cryptocurrency
 apis: []
 maintainers:
 - FN: Kin Lane
